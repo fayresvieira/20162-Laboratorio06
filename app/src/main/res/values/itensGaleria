@@ -1,0 +1,11 @@
+<?xml versoin="1.0" encoding="utf-8" ?>
+
+<resources>
+<declare-styleable name="MinhaGaleria">
+    
+    <attr name="android:galleryItenBackground"/>
+
+    
+</declare-styleable>
+
+</resources>
